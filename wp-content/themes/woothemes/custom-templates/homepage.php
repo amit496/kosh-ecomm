@@ -14,7 +14,7 @@ $woothemes_assets_uri = $woothemes_theme_uri . '/assets';
                 <div class="swiper-wrapper">
                     <div class="swiper-slide">
                         <a href="#">
-                            <img src="<?php echo esc_url( $woothemes_theme_uri ); ?>/images/img-hero.png" alt="Hero Banner" loading="eager"
+                            <img src="<?php echo esc_url($woothemes_theme_uri); ?>/images/img-hero.png" alt="Hero Banner" loading="eager"
                                 fetchpriority="high" width="1920" height="800" decoding="async">
                         </a>
                     </div>
@@ -76,14 +76,14 @@ $woothemes_assets_uri = $woothemes_theme_uri . '/assets';
                                                     <div class="content-tile__media ">
                                                         <picture>
                                                             <source data-column-small-Responsive
-                                                                data-srcset="<?php echo esc_url( $woothemes_assets_uri ); ?>/images/banners/category-mobile-01.jpg"
+                                                                data-srcset="<?php echo esc_url($woothemes_assets_uri); ?>/images/banners/category-mobile-01.jpg"
                                                                 class="picture--sm-source-element"
                                                                 media="(max-width: 47.9375rem)" />
                                                             <source
-                                                                data-srcset="<?php echo esc_url( $woothemes_assets_uri ); ?>/images/banners/category-web-01.jpg"
+                                                                data-srcset="<?php echo esc_url($woothemes_assets_uri); ?>/images/banners/category-web-01.jpg"
                                                                 class="picture--source-element" />
                                                             <img loading="lazy" data-image-component="lazyload"
-                                                                src="<?php echo esc_url( $woothemes_assets_uri ); ?>/images/banners/category-web-01.jpg"
+                                                                src="<?php echo esc_url($woothemes_assets_uri); ?>/images/banners/category-web-01.jpg"
                                                                 class="component-image content-tile__img object-fit--cover lazyload opacity-up component-image--sm-focal"
                                                                 title="" alt="" />
                                                         </picture>
@@ -121,14 +121,14 @@ $woothemes_assets_uri = $woothemes_theme_uri . '/assets';
                                                     <div class="content-tile__media ">
                                                         <picture>
                                                             <source data-column-small-Responsive
-                                                                data-srcset="<?php echo esc_url( $woothemes_assets_uri ); ?>/images/2/PRI09859.jpg"
+                                                                data-srcset="<?php echo esc_url($woothemes_assets_uri); ?>/images/2/PRI09859.jpg"
                                                                 class="picture--sm-source-element"
                                                                 media="(max-width: 47.9375rem)" />
                                                             <source
-                                                                data-srcset="<?php echo esc_url( $woothemes_assets_uri ); ?>/images/2/PRI09859.jpg"
+                                                                data-srcset="<?php echo esc_url($woothemes_assets_uri); ?>/images/2/PRI09859.jpg"
                                                                 class="picture--source-element" />
                                                             <img loading="lazy" data-image-component="lazyload"
-                                                                src="<?php echo esc_url( $woothemes_assets_uri ); ?>/images/2/PRI09859.jpg
+                                                                src="<?php echo esc_url($woothemes_assets_uri); ?>/images/2/PRI09859.jpg"
                                                                 class="component-image content-tile__img object-fit--cover lazyload opacity-up component-image--sm-focal"
                                                                 title="" alt="" />
                                                         </picture>
@@ -164,14 +164,14 @@ $woothemes_assets_uri = $woothemes_theme_uri . '/assets';
                                                     <div class="content-tile__media ">
                                                         <picture>
                                                             <source data-column-small-Responsive
-                                                                data-srcset="<?php echo esc_url( $woothemes_assets_uri ); ?>/images/3/PRI09935.jpg"
+                                                                data-srcset="<?php echo esc_url($woothemes_assets_uri); ?>/images/3/PRI09935.jpg"
                                                                 class="picture--sm-source-element"
                                                                 media="(max-width: 47.9375rem)" />
                                                             <source
-                                                                data-srcset="<?php echo esc_url( $woothemes_assets_uri ); ?>/images/3/PRI09935.jpg"
+                                                                data-srcset="<?php echo esc_url($woothemes_assets_uri); ?>/images/3/PRI09935.jpg"
                                                                 class="picture--source-element" />
                                                             <img loading="lazy" data-image-component="lazyload"
-                                                                src="<?php echo esc_url( $woothemes_assets_uri ); ?>/images/3/PRI09935.jpg"
+                                                                src="<?php echo esc_url($woothemes_assets_uri); ?>/images/3/PRI09935.jpg"
                                                                 class="component-image content-tile__img object-fit--cover lazyload opacity-up component-image--sm-focal"
                                                                 title="" alt="" />
                                                         </picture>
@@ -212,14 +212,14 @@ $woothemes_assets_uri = $woothemes_theme_uri . '/assets';
                                                     <div class="content-tile__media ">
                                                         <picture>
                                                             <source data-column-small-Responsive
-                                                                data-srcset="<?php echo esc_url( $woothemes_assets_uri ); ?>/images/banners/category-mobile-04.jpg"
+                                                                data-srcset="<?php echo esc_url($woothemes_assets_uri); ?>/images/banners/category-mobile-04.jpg"
                                                                 class="picture--sm-source-element"
                                                                 media="(max-width: 47.9375rem)" />
                                                             <source
-                                                                data-srcset="<?php echo esc_url( $woothemes_assets_uri ); ?>/images/banners/category-web-04.jpg"
+                                                                data-srcset="<?php echo esc_url($woothemes_assets_uri); ?>/images/banners/category-web-04.jpg"
                                                                 class="picture--source-element" />
                                                             <img loading="lazy" data-image-component="lazyload"
-                                                                src="<?php echo esc_url( $woothemes_assets_uri ); ?>/images/banners/category-web-04.jpg
+                                                                src="<?php echo esc_url($woothemes_assets_uri); ?>/images/banners/category-web-04.jpg"
                                                                 class="component-image content-tile__img object-fit--cover lazyload opacity-up component-image--sm-focal"
                                                                 title="" alt="" />
                                                         </picture>
@@ -277,15 +277,15 @@ $woothemes_assets_uri = $woothemes_theme_uri . '/assets';
                                                     <div class="content-tile__media ">
                                                         <picture>
                                                             <source data-column-small-Responsive
-                                                                data-srcset="<?php echo esc_url( $woothemes_assets_uri ); ?>/images/banners/category-mobile-06.jpg"
+                                                                data-srcset="<?php echo esc_url($woothemes_assets_uri); ?>/images/banners/category-mobile-06.jpg"
                                                                 class="picture--sm-source-element"
                                                                 media="(max-width: 47.9375rem)" />
                                                             <source
-                                                                data-srcset="<?php echo esc_url( $woothemes_assets_uri ); ?>/images/banners/category-web-06.jpg"
+                                                                data-srcset="<?php echo esc_url($woothemes_assets_uri); ?>/images/banners/category-web-06.jpg"
                                                                 class="picture--source-element" />
                                                             <img loading="lazy" data-image-component="lazyload"
-                                                                src="<?php echo esc_url( $woothemes_assets_uri ); ?>/images/banners/category-web-06.jpg
-                                                                class="component-image content-tile__img object-fit--cover lazyload opacity-up component-image--sm-focal"
+                                                                src="<?php echo esc_url($woothemes_assets_uri); ?>/images/banners/category-web-06.jpg
+                                                                class=" component-image content-tile__img object-fit--cover lazyload opacity-up component-image--sm-focal"
                                                                 title="" alt="" />
                                                         </picture>
                                                     </div>
@@ -323,15 +323,15 @@ $woothemes_assets_uri = $woothemes_theme_uri . '/assets';
                                                     <div class="content-tile__media ">
                                                         <picture>
                                                             <source data-column-small-Responsive
-                                                                data-srcset="<?php echo esc_url( $woothemes_assets_uri ); ?>/images/banners/category-mobile-07.jpg"
+                                                                data-srcset="<?php echo esc_url($woothemes_assets_uri); ?>/images/banners/category-mobile-07.jpg"
                                                                 class="picture--sm-source-element"
                                                                 media="(max-width: 47.9375rem)" />
                                                             <source
-                                                                data-srcset="<?php echo esc_url( $woothemes_assets_uri ); ?>/images/banners/category-web-07.jpg"
+                                                                data-srcset="<?php echo esc_url($woothemes_assets_uri); ?>/images/banners/category-web-07.jpg"
                                                                 class="picture--source-element" />
                                                             <img loading="lazy" data-image-component="lazyload"
-                                                                src="<?php echo esc_url( $woothemes_assets_uri ); ?>/images/banners/category-web-07.jpg
-                                                                class="component-image content-tile__img object-fit--cover lazyload opacity-up component-image--sm-focal"
+                                                                src="<?php echo esc_url($woothemes_assets_uri); ?>/images/banners/category-web-07.jpg
+                                                                class=" component-image content-tile__img object-fit--cover lazyload opacity-up component-image--sm-focal"
                                                                 title="" alt="" />
                                                         </picture>
                                                     </div>
@@ -370,15 +370,15 @@ $woothemes_assets_uri = $woothemes_theme_uri . '/assets';
                                                     <div class="content-tile__media ">
                                                         <picture>
                                                             <source data-column-small-Responsive
-                                                                data-srcset="<?php echo esc_url( $woothemes_assets_uri ); ?>/images/banners/category-mobile-08.jpg"
+                                                                data-srcset="<?php echo esc_url($woothemes_assets_uri); ?>/images/banners/category-mobile-08.jpg"
                                                                 class="picture--sm-source-element"
                                                                 media="(max-width: 47.9375rem)" />
                                                             <source
-                                                                data-srcset="<?php echo esc_url( $woothemes_assets_uri ); ?>/images/banners/category-web-08.jpg"
+                                                                data-srcset="<?php echo esc_url($woothemes_assets_uri); ?>/images/banners/category-web-08.jpg"
                                                                 class="picture--source-element" />
                                                             <img loading="lazy" data-image-component="lazyload"
-                                                                src="<?php echo esc_url( $woothemes_assets_uri ); ?>/images/banners/category-web-08.jpg
-                                                                class="component-image content-tile__img object-fit--cover lazyload opacity-up component-image--sm-focal"
+                                                                src="<?php echo esc_url($woothemes_assets_uri); ?>/images/banners/category-web-08.jpg
+                                                                class=" component-image content-tile__img object-fit--cover lazyload opacity-up component-image--sm-focal"
                                                                 title="" alt="" />
                                                         </picture>
                                                     </div>
@@ -421,15 +421,15 @@ $woothemes_assets_uri = $woothemes_theme_uri . '/assets';
                                                     <div class="content-tile__media ">
                                                         <picture>
                                                             <source data-column-small-Responsive
-                                                                data-srcset="<?php echo esc_url( $woothemes_assets_uri ); ?>/images/banners/category-mobile-09.jpg"
+                                                                data-srcset="<?php echo esc_url($woothemes_assets_uri); ?>/images/banners/category-mobile-09.jpg"
                                                                 class="picture--sm-source-element"
                                                                 media="(max-width: 47.9375rem)" />
                                                             <source
-                                                                data-srcset="<?php echo esc_url( $woothemes_assets_uri ); ?>/images/banners/category-web-09.jpg"
+                                                                data-srcset="<?php echo esc_url($woothemes_assets_uri); ?>/images/banners/category-web-09.jpg"
                                                                 class="picture--source-element" />
                                                             <img loading="lazy" data-image-component="lazyload"
-                                                                src="<?php echo esc_url( $woothemes_assets_uri ); ?>/images/banners/category-web-09.jpg
-                                                                class="component-image content-tile__img object-fit--cover lazyload opacity-up component-image--sm-focal"
+                                                                src="<?php echo esc_url($woothemes_assets_uri); ?>/images/banners/category-web-09.jpg
+                                                                class=" component-image content-tile__img object-fit--cover lazyload opacity-up component-image--sm-focal"
                                                                 title="" alt="" />
                                                         </picture>
                                                     </div>
@@ -508,14 +508,14 @@ $woothemes_assets_uri = $woothemes_theme_uri . '/assets';
                                     <div class="content-tile__media ">
                                         <picture>
                                             <source data-column-small-Responsive
-                                                data-srcset="<?php echo esc_url( $woothemes_assets_uri ); ?>/images/banners/art-mobile.jpg"
+                                                data-srcset="<?php echo esc_url($woothemes_assets_uri); ?>/images/banners/art-mobile.jpg"
                                                 class="picture--sm-source-element"
                                                 media="(max-width: 47.9375rem)" />
-                                            <source data-srcset="<?php echo esc_url( $woothemes_assets_uri ); ?>/images/banners/art-web.jpg"
+                                            <source data-srcset="<?php echo esc_url($woothemes_assets_uri); ?>/images/banners/art-web.jpg"
                                                 class="picture--source-element" />
                                             <img loading="lazy" data-image-component="lazyload"
-                                                src="<?php echo esc_url( $woothemes_assets_uri ); ?>/images/banners/art-web.jpg
-                                                class="component-image content-tile__img object-fit--cover lazyload opacity-up component-image--sm-focal"
+                                                src="<?php echo esc_url($woothemes_assets_uri); ?>/images/banners/art-web.jpg
+                                                class=" component-image content-tile__img object-fit--cover lazyload opacity-up component-image--sm-focal"
                                                 title="" alt="" />
                                         </picture>
                                     </div>
@@ -700,13 +700,13 @@ $woothemes_assets_uri = $woothemes_theme_uri . '/assets';
             <div class="carousel-placeholder-wrapper flexible-carousel-wrapper " data-banner-name="null">
                 <picture class="carousel-placeholder-picture-tag">
                     <source media="(min-width:1300px)"
-                        srcset="<?php echo esc_url( $woothemes_assets_uri ); ?>/images/placeholders/placeholder-1920-947.svg">
+                        srcset="<?php echo esc_url($woothemes_assets_uri); ?>/images/placeholders/placeholder-1920-947.svg">
                     <source media="(min-width:767px)"
-                        srcset="<?php echo esc_url( $woothemes_assets_uri ); ?>/images/placeholders/placeholder-1300-947.svg">
+                        srcset="<?php echo esc_url($woothemes_assets_uri); ?>/images/placeholders/placeholder-1300-947.svg">
                     <source media="(min-width:500px)"
-                        srcset="<?php echo esc_url( $woothemes_assets_uri ); ?>/images/placeholders/placeholder-767-1260.svg">
+                        srcset="<?php echo esc_url($woothemes_assets_uri); ?>/images/placeholders/placeholder-767-1260.svg">
                     <img loading="eager" class="carousel-placeholder"
-                        src="<?php echo esc_url( $woothemes_assets_uri ); ?>/images/placeholders/placeholder-400-685.svg" alt="" />
+                        src="<?php echo esc_url($woothemes_assets_uri); ?>/images/placeholders/placeholder-400-685.svg" alt="" />
                 </picture>
                 <div class="carousel-content is-hidden">
                     <div class="module-container carousal-offset-wrapper ad-show-round-arrow-container search-results__main module-container--spacing-top-small module-container--spacing-bottom-small"
@@ -734,12 +734,12 @@ $woothemes_assets_uri = $woothemes_theme_uri . '/assets';
                                                         <img loading="lazy"
                                                             class="product-tile__image product-tile__image--primary object-fit--cover lazyload none-up"
                                                             data-product-component="image"
-                                                            data-src="<?php echo esc_url( $woothemes_theme_uri ); ?>/images/gr.jpg" data-image-index="null"
+                                                            data-src="<?php echo esc_url($woothemes_theme_uri); ?>/images/gr.jpg" data-image-index="null"
                                                             alt="Kumi Bemberg Gown - Green" itemprop="image" />
                                                         <img loading="lazy"
                                                             class="product-tile__image product-tile__image--secondary component-overlay component-overlay--start object-fit--cover lazyload none-up"
                                                             data-product-component="image"
-                                                            data-src="<?php echo esc_url( $woothemes_theme_uri ); ?>/images/gr.jpg" data-image-index="null"
+                                                            data-src="<?php echo esc_url($woothemes_theme_uri); ?>/images/gr.jpg" data-image-index="null"
                                                             alt="Kumi Bemberg Gown - Green" itemprop="image" />
                                                     </div>
                                                 </div>
@@ -811,13 +811,13 @@ $woothemes_assets_uri = $woothemes_theme_uri . '/assets';
                                                         <img loading="lazy"
                                                             class="product-tile__image product-tile__image--primary object-fit--cover lazyload none-up"
                                                             data-product-component="image"
-                                                            data-src="<?php echo esc_url( $woothemes_theme_uri ); ?>/images/blue-crepe.jpg"
+                                                            data-src="<?php echo esc_url($woothemes_theme_uri); ?>/images/blue-crepe.jpg"
                                                             data-image-index="null"
                                                             alt="Sumi Bemberg Co-ord - Sage" itemprop="image" />
                                                         <img loading="lazy"
                                                             class="product-tile__image product-tile__image--secondary component-overlay component-overlay--start object-fit--cover lazyload none-up"
                                                             data-product-component="image"
-                                                            data-src="<?php echo esc_url( $woothemes_theme_uri ); ?>/images/blue-crepe.jpg"
+                                                            data-src="<?php echo esc_url($woothemes_theme_uri); ?>/images/blue-crepe.jpg"
                                                             data-image-index="null"
                                                             alt="Sumi Bemberg Co-ord - Sage" itemprop="image" />
                                                     </div>
@@ -891,13 +891,13 @@ $woothemes_assets_uri = $woothemes_theme_uri . '/assets';
                                                         <img loading="lazy"
                                                             class="product-tile__image product-tile__image--primary object-fit--cover lazyload none-up"
                                                             data-product-component="image"
-                                                            data-src="<?php echo esc_url( $woothemes_theme_uri ); ?>/images/bright-orange.jpg"
+                                                            data-src="<?php echo esc_url($woothemes_theme_uri); ?>/images/bright-orange.jpg"
                                                             data-image-index="null"
                                                             alt="Sora Bemberg Gown - Yellow" itemprop="image" />
                                                         <img loading="lazy"
                                                             class="product-tile__image product-tile__image--secondary component-overlay component-overlay--start object-fit--cover lazyload none-up"
                                                             data-product-component="image"
-                                                            data-src="<?php echo esc_url( $woothemes_theme_uri ); ?>/images/bright-orange.jpg"
+                                                            data-src="<?php echo esc_url($woothemes_theme_uri); ?>/images/bright-orange.jpg"
                                                             data-image-index="null"
                                                             alt="Sora Bemberg Gown - Yellow" itemprop="image" />
                                                     </div>
@@ -965,13 +965,13 @@ $woothemes_assets_uri = $woothemes_theme_uri . '/assets';
                                                         <img loading="lazy"
                                                             class="product-tile__image product-tile__image--primary object-fit--cover lazyload none-up"
                                                             data-product-component="image"
-                                                            data-src="<?php echo esc_url( $woothemes_theme_uri ); ?>/images/pink.jpg" data-image-index="null"
+                                                            data-src="<?php echo esc_url($woothemes_theme_uri); ?>/images/pink.jpg" data-image-index="null"
                                                             alt="Kaze Bemberg Skirt Set - Aqua"
                                                             itemprop="image" />
                                                         <img loading="lazy"
                                                             class="product-tile__image product-tile__image--secondary component-overlay component-overlay--start object-fit--cover lazyload none-up"
                                                             data-product-component="image"
-                                                            data-src="<?php echo esc_url( $woothemes_theme_uri ); ?>/images/pink.jpg" data-image-index="null"
+                                                            data-src="<?php echo esc_url($woothemes_theme_uri); ?>/images/pink.jpg" data-image-index="null"
                                                             alt="Kaze Bemberg Skirt Set - Aqua"
                                                             itemprop="image" />
                                                     </div>
@@ -1154,14 +1154,14 @@ $woothemes_assets_uri = $woothemes_theme_uri . '/assets';
                                     <div class="content-tile__media ">
                                         <picture>
                                             <source data-column-small-Responsive
-                                                data-srcset="<?php echo esc_url( $woothemes_assets_uri ); ?>/images/banners/spotlight-mobile.jpg"
+                                                data-srcset="<?php echo esc_url($woothemes_assets_uri); ?>/images/banners/spotlight-mobile.jpg"
                                                 class="picture--sm-source-element"
                                                 media="(max-width: 47.9375rem)" />
-                                            <source data-srcset="<?php echo esc_url( $woothemes_assets_uri ); ?>/images/banners/spotlight-web-01.jpg"
+                                            <source data-srcset="<?php echo esc_url($woothemes_assets_uri); ?>/images/banners/spotlight-web-01.jpg"
                                                 class="picture--source-element" />
                                             <img loading="lazy" data-image-component="lazyload"
-                                                src="<?php echo esc_url( $woothemes_assets_uri ); ?>/images/banners/spotlight-web-01.jpg
-                                                class="component-image content-tile__img object-fit--cover lazyload opacity-up component-image--sm-focal"
+                                                src="<?php echo esc_url($woothemes_assets_uri); ?>/images/banners/spotlight-web-01.jpg
+                                                class=" component-image content-tile__img object-fit--cover lazyload opacity-up component-image--sm-focal"
                                                 title="" alt="" />
                                         </picture>
                                     </div>
@@ -1208,14 +1208,14 @@ $woothemes_assets_uri = $woothemes_theme_uri . '/assets';
                                     <div class="content-tile__media ">
                                         <picture>
                                             <source data-column-small-Responsive
-                                                data-srcset="<?php echo esc_url( $woothemes_assets_uri ); ?>/images/banners/spotlight-mobile-02.jpg"
+                                                data-srcset="<?php echo esc_url($woothemes_assets_uri); ?>/images/banners/spotlight-mobile-02.jpg"
                                                 class="picture--sm-source-element"
                                                 media="(max-width: 47.9375rem)" />
-                                            <source data-srcset="<?php echo esc_url( $woothemes_assets_uri ); ?>/images/banners/spotlight-web-02.jpg"
+                                            <source data-srcset="<?php echo esc_url($woothemes_assets_uri); ?>/images/banners/spotlight-web-02.jpg"
                                                 class="picture--source-element" />
                                             <img loading="lazy" data-image-component="lazyload"
-                                                src="<?php echo esc_url( $woothemes_assets_uri ); ?>/images/banners/spotlight-web-02.jpg
-                                                class="component-image content-tile__img object-fit--cover lazyload opacity-up component-image--sm-focal"
+                                                src="<?php echo esc_url($woothemes_assets_uri); ?>/images/banners/spotlight-web-02.jpg
+                                                class=" component-image content-tile__img object-fit--cover lazyload opacity-up component-image--sm-focal"
                                                 title="" alt="" />
                                         </picture>
                                     </div>
@@ -1262,14 +1262,14 @@ $woothemes_assets_uri = $woothemes_theme_uri . '/assets';
                                     <div class="content-tile__media ">
                                         <picture>
                                             <source data-column-small-Responsive
-                                                data-srcset="<?php echo esc_url( $woothemes_theme_uri ); ?>/images/img38.jpg"
+                                                data-srcset="<?php echo esc_url($woothemes_theme_uri); ?>/images/img38.jpg"
                                                 class="picture--sm-source-element"
                                                 media="(max-width: 47.9375rem)" />
-                                            <source data-srcset="<?php echo esc_url( $woothemes_theme_uri ); ?>/images/img38.jpg"
+                                            <source data-srcset="<?php echo esc_url($woothemes_theme_uri); ?>/images/img38.jpg"
                                                 class="picture--source-element" />
                                             <img loading="lazy" data-image-component="lazyload"
-                                                src="<?php echo esc_url( $woothemes_assets_uri ); ?>/images/products/img38.svg
-                                                class="component-image content-tile__img object-fit--cover lazyload opacity-up component-image--sm-focal"
+                                                src="<?php echo esc_url($woothemes_assets_uri); ?>/images/products/img38.svg
+                                                class=" component-image content-tile__img object-fit--cover lazyload opacity-up component-image--sm-focal"
                                                 title="" alt="" />
                                         </picture>
                                     </div>
@@ -1316,14 +1316,14 @@ $woothemes_assets_uri = $woothemes_theme_uri . '/assets';
                                     <div class="content-tile__media ">
                                         <picture>
                                             <source data-column-small-Responsive
-                                                data-srcset="<?php echo esc_url( $woothemes_theme_uri ); ?>/images/img41.jpg"
+                                                data-srcset="<?php echo esc_url($woothemes_theme_uri); ?>/images/img41.jpg"
                                                 class="picture--sm-source-element"
                                                 media="(max-width: 47.9375rem)" />
-                                            <source data-srcset="<?php echo esc_url( $woothemes_theme_uri ); ?>/images/img41.jpg"
+                                            <source data-srcset="<?php echo esc_url($woothemes_theme_uri); ?>/images/img41.jpg"
                                                 class="picture--source-element" />
                                             <img loading="lazy" data-image-component="lazyload"
-                                                src="<?php echo esc_url( $woothemes_assets_uri ); ?>/images/products/img41.svg
-                                                class="component-image content-tile__img object-fit--cover lazyload opacity-up component-image--sm-focal"
+                                                src="<?php echo esc_url($woothemes_assets_uri); ?>/images/products/img41.svg
+                                                class=" component-image content-tile__img object-fit--cover lazyload opacity-up component-image--sm-focal"
                                                 title="" alt="" />
                                         </picture>
                                     </div>
@@ -1386,14 +1386,14 @@ $woothemes_assets_uri = $woothemes_theme_uri . '/assets';
                                             <div class="content-tile__media ">
                                                 <picture>
                                                     <source data-column-small-Responsive
-                                                        data-srcset="<?php echo esc_url( $woothemes_theme_uri ); ?>/images/img32.jpg"
+                                                        data-srcset="<?php echo esc_url($woothemes_theme_uri); ?>/images/img32.jpg"
                                                         class="picture--sm-source-element"
                                                         media="(max-width: 47.9375rem)" />
-                                                    <source data-srcset="<?php echo esc_url( $woothemes_theme_uri ); ?>/images/img32.jpg"
+                                                    <source data-srcset="<?php echo esc_url($woothemes_theme_uri); ?>/images/img32.jpg"
                                                         class="picture--source-element" />
                                                     <img loading="lazy" data-image-component="lazyload"
-                                                        src="<?php echo esc_url( $woothemes_assets_uri ); ?>/images/products/img32.svg
-                                                        class="component-image content-tile__img object-fit--cover lazyload opacity-up component-image--sm-focal"
+                                                        src="<?php echo esc_url($woothemes_assets_uri); ?>/images/products/img32.svg
+                                                        class=" component-image content-tile__img object-fit--cover lazyload opacity-up component-image--sm-focal"
                                                         title="" alt="" />
                                                 </picture>
                                             </div>
@@ -1494,13 +1494,13 @@ $woothemes_assets_uri = $woothemes_theme_uri . '/assets';
                 <!-- Placeholder image for LCP -->
                 <picture class="carousel-placeholder-picture-tag">
                     <source media="(min-width:1300px)"
-                        srcset="<?php echo esc_url( $woothemes_assets_uri ); ?>/images/placeholders/placeholder-1920-947.svg">
+                        srcset="<?php echo esc_url($woothemes_assets_uri); ?>/images/placeholders/placeholder-1920-947.svg">
                     <source media="(min-width:767px)"
-                        srcset="<?php echo esc_url( $woothemes_assets_uri ); ?>/images/placeholders/placeholder-1300-947.svg">
+                        srcset="<?php echo esc_url($woothemes_assets_uri); ?>/images/placeholders/placeholder-1300-947.svg">
                     <source media="(min-width:500px)"
-                        srcset="<?php echo esc_url( $woothemes_assets_uri ); ?>/images/placeholders/placeholder-767-1260.svg">
+                        srcset="<?php echo esc_url($woothemes_assets_uri); ?>/images/placeholders/placeholder-767-1260.svg">
                     <img loading="eager" class="carousel-placeholder"
-                        src="<?php echo esc_url( $woothemes_assets_uri ); ?>/images/placeholders/placeholder-400-685.svg" alt="" />
+                        src="<?php echo esc_url($woothemes_assets_uri); ?>/images/placeholders/placeholder-400-685.svg" alt="" />
                 </picture>
             </div>
         </div>
@@ -1535,14 +1535,14 @@ $woothemes_assets_uri = $woothemes_theme_uri . '/assets';
                                     <div class="content-tile__media ">
                                         <picture>
                                             <source data-column-small-Responsive
-                                                data-srcset="<?php echo esc_url( $woothemes_theme_uri ); ?>/images/img33.jpg"
+                                                data-srcset="<?php echo esc_url($woothemes_theme_uri); ?>/images/img33.jpg"
                                                 class="picture--sm-source-element"
                                                 media="(max-width: 47.9375rem)" />
-                                            <source data-srcset="<?php echo esc_url( $woothemes_theme_uri ); ?>/images/img33.jpg"
+                                            <source data-srcset="<?php echo esc_url($woothemes_theme_uri); ?>/images/img33.jpg"
                                                 class="picture--source-element" />
                                             <img loading="lazy" data-image-component="lazyload"
-                                                src="<?php echo esc_url( $woothemes_assets_uri ); ?>/images/products/img33.svg
-                                                class="component-image content-tile__img object-fit--cover lazyload opacity-up component-image--sm-focal"
+                                                src="<?php echo esc_url($woothemes_assets_uri); ?>/images/products/img33.svg
+                                                class=" component-image content-tile__img object-fit--cover lazyload opacity-up component-image--sm-focal"
                                                 title="" alt="" />
                                         </picture>
                                     </div>
@@ -1588,14 +1588,14 @@ $woothemes_assets_uri = $woothemes_theme_uri . '/assets';
                                     <div class="content-tile__media ">
                                         <picture>
                                             <source data-column-small-Responsive
-                                                data-srcset="<?php echo esc_url( $woothemes_theme_uri ); ?>/images/img24.jpg"
+                                                data-srcset="<?php echo esc_url($woothemes_theme_uri); ?>/images/img24.jpg"
                                                 class="picture--sm-source-element"
                                                 media="(max-width: 47.9375rem)" />
-                                            <source data-srcset="<?php echo esc_url( $woothemes_theme_uri ); ?>/images/img24.jpg"
+                                            <source data-srcset="<?php echo esc_url($woothemes_theme_uri); ?>/images/img24.jpg"
                                                 class="picture--source-element" />
                                             <img loading="lazy" data-image-component="lazyload"
-                                                src="<?php echo esc_url( $woothemes_assets_uri ); ?>/images/products/img24.svg
-                                                class="component-image content-tile__img object-fit--cover lazyload opacity-up component-image--sm-focal"
+                                                src="<?php echo esc_url($woothemes_assets_uri); ?>/images/products/img24.svg
+                                                class=" component-image content-tile__img object-fit--cover lazyload opacity-up component-image--sm-focal"
                                                 title="" alt="" />
                                         </picture>
                                     </div>
@@ -1639,14 +1639,14 @@ $woothemes_assets_uri = $woothemes_theme_uri . '/assets';
                                     <div class="content-tile__media ">
                                         <picture>
                                             <source data-column-small-Responsive
-                                                data-srcset="<?php echo esc_url( $woothemes_theme_uri ); ?>/images/img30.jpg"
+                                                data-srcset="<?php echo esc_url($woothemes_theme_uri); ?>/images/img30.jpg"
                                                 class="picture--sm-source-element"
                                                 media="(max-width: 47.9375rem)" />
-                                            <source data-srcset="<?php echo esc_url( $woothemes_theme_uri ); ?>/images/img30.jpg"
+                                            <source data-srcset="<?php echo esc_url($woothemes_theme_uri); ?>/images/img30.jpg"
                                                 class="picture--source-element" />
                                             <img loading="lazy" data-image-component="lazyload"
-                                                src="<?php echo esc_url( $woothemes_assets_uri ); ?>/images/products/img30.svg
-                                                class="component-image content-tile__img object-fit--cover lazyload opacity-up component-image--sm-focal"
+                                                src="<?php echo esc_url($woothemes_assets_uri); ?>/images/products/img30.svg
+                                                class=" component-image content-tile__img object-fit--cover lazyload opacity-up component-image--sm-focal"
                                                 title="" alt="" />
                                         </picture>
                                     </div>
@@ -1702,14 +1702,14 @@ $woothemes_assets_uri = $woothemes_theme_uri . '/assets';
                                     <div class="hero__media component-overlay component-overlay--center">
                                         <picture style="width: 100vw; display: block;">
                                             <source data-column-small-Responsive
-                                                data-srcset="<?php echo esc_url( $woothemes_theme_uri ); ?>/images/img31.jpg"
+                                                data-srcset="<?php echo esc_url($woothemes_theme_uri); ?>/images/img31.jpg"
                                                 class="picture--sm-source-element"
                                                 media="(max-width: 47.9375rem)" />
-                                            <source data-srcset="<?php echo esc_url( $woothemes_theme_uri ); ?>/images/img31.jpg"
+                                            <source data-srcset="<?php echo esc_url($woothemes_theme_uri); ?>/images/img31.jpg"
                                                 class="picture--source-element" />
                                             <img loading="lazy" data-image-component="lazyload"
-                                                src="<?php echo esc_url( $woothemes_assets_uri ); ?>/images/products/img31.svg
-                                                class="component-image hero__img object-fit--cover lazyload opacity-up component-image--sm-focal"
+                                                src="<?php echo esc_url($woothemes_assets_uri); ?>/images/products/img31.svg
+                                                class=" component-image hero__img object-fit--cover lazyload opacity-up component-image--sm-focal"
                                                 title="" alt="" style="width: -webkit-fill-available;" />
                                         </picture>
                                     </div>
@@ -1753,7 +1753,7 @@ $woothemes_assets_uri = $woothemes_theme_uri . '/assets';
             <!-- Product 1 -->
             <div class="product-card" style="background: #fff; border: 1px solid #eee;">
                 <div class="product-image" style="position: relative; overflow: hidden;">
-                    <img src="<?php echo esc_url( $woothemes_theme_uri ); ?>/images/one-piece-swim.jpg" alt="One Piece Cut Out Ruffles"
+                    <img src="<?php echo esc_url($woothemes_theme_uri); ?>/images/one-piece-swim.jpg" alt="One Piece Cut Out Ruffles"
                         style="width: 100%; display: block;">
                 </div>
                 <div class="product-info" style="padding: 20px;">
@@ -1771,7 +1771,7 @@ $woothemes_assets_uri = $woothemes_theme_uri . '/assets';
             <!-- Product 2 -->
             <div class="product-card" style="background: #fff; border: 1px solid #eee;">
                 <div class="product-image" style="position: relative; overflow: hidden;">
-                    <img src="<?php echo esc_url( $woothemes_theme_uri ); ?>/images/bright-orange.jpg" alt="White & Orange Coastal Grace Beach Set"
+                    <img src="<?php echo esc_url($woothemes_theme_uri); ?>/images/bright-orange.jpg" alt="White & Orange Coastal Grace Beach Set"
                         style="width: 100%; display: block;">
                 </div>
                 <div class="product-info" style="padding: 20px;">
@@ -1789,7 +1789,7 @@ $woothemes_assets_uri = $woothemes_theme_uri . '/assets';
             <!-- Product 3 -->
             <div class="product-card" style="background: #fff; border: 1px solid #eee;">
                 <div class="product-image" style="position: relative; overflow: hidden;">
-                    <img src="<?php echo esc_url( $woothemes_theme_uri ); ?>/images/adsgvs.jpg" alt="Off White Lush Isle Corset Beach Set"
+                    <img src="<?php echo esc_url($woothemes_theme_uri); ?>/images/adsgvs.jpg" alt="Off White Lush Isle Corset Beach Set"
                         style="width: 100%; display: block;">
                 </div>
                 <div class="product-info" style="padding: 20px;">
@@ -1807,7 +1807,7 @@ $woothemes_assets_uri = $woothemes_theme_uri . '/assets';
             <!-- Product 4 -->
             <div class="product-card" style="background: #fff; border: 1px solid #eee;">
                 <div class="product-image" style="position: relative; overflow: hidden;">
-                    <img src="<?php echo esc_url( $woothemes_theme_uri ); ?>/images/pink.jpg" alt="Pink Ocean Jewel 2-Piece Swimsuit"
+                    <img src="<?php echo esc_url($woothemes_theme_uri); ?>/images/pink.jpg" alt="Pink Ocean Jewel 2-Piece Swimsuit"
                         style="width: 100%; display: block;">
                 </div>
                 <div class="product-info" style="padding: 20px;">
@@ -1835,7 +1835,7 @@ $woothemes_assets_uri = $woothemes_theme_uri . '/assets';
             <!-- Featured Product 1 -->
             <div class="product-card" style="background: #fff; border: 1px solid #eee;">
                 <div class="product-image" style="position: relative; overflow: hidden;">
-                    <img src="<?php echo esc_url( $woothemes_theme_uri ); ?>/images/gr.jpg" alt="Orange Crepe Embroidered Ghagra Choli"
+                    <img src="<?php echo esc_url($woothemes_theme_uri); ?>/images/gr.jpg" alt="Orange Crepe Embroidered Ghagra Choli"
                         style="width: 100%; display: block;">
                 </div>
                 <div class="product-info" style="padding: 20px;">
@@ -1850,7 +1850,7 @@ $woothemes_assets_uri = $woothemes_theme_uri . '/assets';
             <!-- Featured Product 2 -->
             <div class="product-card" style="background: #fff; border: 1px solid #eee;">
                 <div class="product-image" style="position: relative; overflow: hidden;">
-                    <img src="<?php echo esc_url( $woothemes_theme_uri ); ?>/images/blue-crepe.jpg" alt="Blue Crepe Embroidered Co-Ord Sets"
+                    <img src="<?php echo esc_url($woothemes_theme_uri); ?>/images/blue-crepe.jpg" alt="Blue Crepe Embroidered Co-Ord Sets"
                         style="width: 100%; display: block;">
                 </div>
                 <div class="product-info" style="padding: 20px;">
@@ -1865,7 +1865,7 @@ $woothemes_assets_uri = $woothemes_theme_uri . '/assets';
             <!-- Featured Product 3 -->
             <div class="product-card" style="background: #fff; border: 1px solid #eee;">
                 <div class="product-image" style="position: relative; overflow: hidden;">
-                    <img src="<?php echo esc_url( $woothemes_theme_uri ); ?>/images/navy-blue.jpg" alt="Navy Blue Georgette Co-Ords Set"
+                    <img src="<?php echo esc_url($woothemes_theme_uri); ?>/images/navy-blue.jpg" alt="Navy Blue Georgette Co-Ords Set"
                         style="width: 100%; display: block;">
                 </div>
                 <div class="product-info" style="padding: 20px;">
@@ -1880,7 +1880,7 @@ $woothemes_assets_uri = $woothemes_theme_uri . '/assets';
             <!-- Featured Product 4 -->
             <div class="product-card" style="background: #fff; border: 1px solid #eee;">
                 <div class="product-image" style="position: relative; overflow: hidden;">
-                    <img src="<?php echo esc_url( $woothemes_theme_uri ); ?>/images/dresses.jpg" alt="Dresses Collection"
+                    <img src="<?php echo esc_url($woothemes_theme_uri); ?>/images/dresses.jpg" alt="Dresses Collection"
                         style="width: 100%; display: block;">
                 </div>
                 <div class="product-info" style="padding: 20px;">
