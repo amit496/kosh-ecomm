@@ -635,7 +635,7 @@
 	};
 	window.SFRA.Urls = {
 		"homePage": "index.html",
-		"staticPath": "./assets/",
+		"staticPath": "<?php echo esc_url(get_stylesheet_directory_uri()); ?>/assets/",
 		"wishlistInList": "/on/demandware.store/Sites-AD-INDIA-Site/default/Wishlist-InList",
 		"wishlistAddProduct": "/on/demandware.store/Sites-AD-INDIA-Site/default/Wishlist-AddProduct",
 		"wishlistRemoveProduct": "/on/demandware.store/Sites-AD-INDIA-Site/default/Wishlist-RemoveProduct",

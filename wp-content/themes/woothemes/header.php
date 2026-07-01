@@ -2632,7 +2632,7 @@
 								<div class="header__login-desktop display--tabs-up">
 									<a class="header__utility-item header__utility-anchor header-flyout__secondary-link link flex header__utility-profile"
 										href="./login.html" title="Login to your account">
-										<img loading="lazy" class="header__icons" src='./assets/images/user-icon.svg'
+										<img loading="lazy" class="header__icons" src="<?php echo esc_url( get_stylesheet_directory_uri() . '/assets/images/user-icon.svg' ); ?>"
 											alt="search" />
 										<span class="header__utility-label icon--set-right display--tabs-only">Log In /
 											Sign Up</span>
@@ -2723,7 +2723,7 @@
 								<a class="header__utility-item header__utility-anchor header-flyout__secondary-link link flex display--tabs-up "
 									href="wishlist.html"
 									title="View your wishlist">
-									<img loading="lazy" class="header__icons" src='./assets/images/wishlist-icon.svg'
+									<img loading="lazy" class="header__icons" src="<?php echo esc_url( get_stylesheet_directory_uri() . '/assets/images/wishlist-icon.svg' ); ?>"
 										alt="search" />
 									<span class="header__utility-label icon--set-right display--tabs-only">My
 										Wishlist</span>
@@ -2759,9 +2759,9 @@
 										aria-label="whatsapp" target="_blank">
 										<picture>
 											<source media="(min-width:768px)"
-												srcset="./assets/images/whatsapp-desktop.svg">
+												srcset="<?php echo esc_url( get_stylesheet_directory_uri() . '/assets/images/whatsapp-desktop.svg' ); ?>">
 											<img loading="lazy" aria-hidden="true" focusable="false" class="whatsapp"
-												src="./assets/images/whatsapp-desktop.svg" alt="whatsapp us"
+												src="<?php echo esc_url( get_stylesheet_directory_uri() . '/assets/images/whatsapp-desktop.svg' ); ?>" alt="whatsapp us"
 												width="18px">
 										</picture>
 									</a>
@@ -5465,7 +5465,7 @@
 													href="./login.html"
 													title="Login to your account">
 													<img loading="lazy" class="header__icons"
-														src='./assets/images/user-icon.svg' alt="search" />
+														src="<?php echo esc_url( get_stylesheet_directory_uri() . '/assets/images/user-icon.svg' ); ?>" alt="search" />
 													<span
 														class="header__utility-label icon--set-right display--tabs-only">Log
 														In / Sign Up</span>
@@ -5564,7 +5564,7 @@
 												href="./wishlist.html"
 												title="View your wishlist">
 												<img loading="lazy" class="header__icons"
-													src='./assets/images/wishlist-icon.svg' alt="search" />
+													src="<?php echo esc_url( get_stylesheet_directory_uri() . '/assets/images/wishlist-icon.svg' ); ?>" alt="search" />
 												<span
 													class="header__utility-label icon--set-right display--tabs-only">My
 													Wishlist</span>
